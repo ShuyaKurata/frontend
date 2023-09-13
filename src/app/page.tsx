@@ -12,7 +12,7 @@ export default function Home() {
   
   return (
     <div>
-    <h1>Next.js + Flask</h1>
+    <h1>unti! </h1>
     <p>{message}</p>
     </div>
     );
